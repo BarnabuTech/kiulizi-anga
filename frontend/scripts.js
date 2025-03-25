@@ -46,4 +46,3 @@ async function getGeminiResponse(query) {
         return "⚠️ Oops! AI is unavailable. Try again later.";
     }
 }
-
